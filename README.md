@@ -2,6 +2,21 @@
 
 This is a simple Book Store web application built with Laravel. The project allows users to manage a collection of books, including adding, editing, viewing, and deleting book records. It demonstrates CRUD operations, user authentication, and basic web application structure using Laravel's MVC architecture.
 
+---
+
+## 📺 Demo Video
+
+<div align="center">
+  
+[![Book Store Laravel Demo](https://github.com/tanzid-48/book-store/blob/main/Assets/Pictures/Dashboard.png)](https://youtu.be/8OAsc-vdX6khttps://youtu.be/8OAsc-vdX6k)
+
+</div>
+
+> _Click the image above to watch the demo on YouTube!_
+
+
+---
+
 ## Features
 
 - User authentication (register, login, logout)
