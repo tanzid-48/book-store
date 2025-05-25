@@ -19,7 +19,7 @@ This is a simple Book Store web application built with Laravel. The project allo
 
 ## Features
 
-- User authentication (register, login, logout)
+
 - Add new books with details
 - Edit and update existing books
 - Delete books with validation
@@ -43,7 +43,7 @@ This is a simple Book Store web application built with Laravel. The project allo
 ### Prerequisites
 - PHP >= 8.0
 - Composer
-- SQLite (or another supported database)
+- MySQL (or another supported database)
 - Node.js & npm (for frontend assets)
 
 ### Installation
